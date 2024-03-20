@@ -1,5 +1,5 @@
 {
-    "name": "fruitcake/laravel-cors",
+    "name": "subham-jobanputra/laravel-cors",
     "description": "Adds CORS (Cross-Origin Resource Sharing) headers support in your Laravel application",
     "keywords": ["laravel", "cors", "crossdomain", "api"],
     "license": "MIT",
@@ -15,8 +15,8 @@
     ],
     "require": {
         "php": "^7.4|^8.0",
-        "illuminate/support": "^6|^7|^8|^9",
-        "illuminate/contracts": "^6|^7|^8|^9",
+        "illuminate/support": "^6|^7|^8|^9|^10.0|^11.0",
+        "illuminate/contracts": "^6|^7|^8|^9"|^10.0|^11.0,
         "fruitcake/php-cors": "^1.2"
     },
     "require-dev": {
